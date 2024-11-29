@@ -1,0 +1,58 @@
+com.zaxxer.hikari.pool.HikariPool-[WARN]- 2024-11-29 00:50:56,646-HikariPool-6 - Thread starvation or clock leap detected (housekeeper delta=1h38m1s691ms).-
+com.zaxxer.hikari.pool.HikariPool-[WARN]- 2024-11-29 00:57:53,172-HikariPool-6 - Thread starvation or clock leap detected (housekeeper delta=6m56s525ms).-
+com.zaxxer.hikari.pool.HikariPool-[WARN]- 2024-11-29 01:31:10,627-HikariPool-6 - Thread starvation or clock leap detected (housekeeper delta=33m17s456ms).-
+com.zaxxer.hikari.pool.HikariPool-[WARN]- 2024-11-29 02:51:35,583-HikariPool-6 - Thread starvation or clock leap detected (housekeeper delta=1h20m24s956ms).-
+com.zaxxer.hikari.pool.HikariPool-[WARN]- 2024-11-29 04:17:09,348-HikariPool-6 - Thread starvation or clock leap detected (housekeeper delta=1h25m33s764ms).-
+com.zaxxer.hikari.pool.HikariPool-[WARN]- 2024-11-29 04:55:01,212-HikariPool-6 - Thread starvation or clock leap detected (housekeeper delta=37m51s865ms).-
+com.zaxxer.hikari.pool.HikariPool-[WARN]- 2024-11-29 05:10:45,174-HikariPool-6 - Thread starvation or clock leap detected (housekeeper delta=15m43s962ms).-
+com.zaxxer.hikari.pool.HikariPool-[WARN]- 2024-11-29 05:25:24,834-HikariPool-6 - Thread starvation or clock leap detected (housekeeper delta=14m39s659ms).-
+com.zaxxer.hikari.pool.HikariPool-[WARN]- 2024-11-29 05:57:10,303-HikariPool-6 - Thread starvation or clock leap detected (housekeeper delta=31m45s469ms).-
+com.zaxxer.hikari.pool.HikariPool-[WARN]- 2024-11-29 06:36:07,949-HikariPool-6 - Thread starvation or clock leap detected (housekeeper delta=38m57s647ms).-
+com.zaxxer.hikari.pool.HikariPool-[WARN]- 2024-11-29 06:56:08,431-HikariPool-6 - Thread starvation or clock leap detected (housekeeper delta=19m30s475ms).-
+com.zaxxer.hikari.pool.HikariPool-[WARN]- 2024-11-29 07:30:25,980-HikariPool-6 - Thread starvation or clock leap detected (housekeeper delta=34m17s550ms).-
+com.zaxxer.hikari.pool.HikariPool-[WARN]- 2024-11-29 07:56:59,332-HikariPool-6 - Thread starvation or clock leap detected (housekeeper delta=26m33s352ms).-
+com.zaxxer.hikari.pool.HikariPool-[WARN]- 2024-11-29 08:42:06,791-HikariPool-6 - Thread starvation or clock leap detected (housekeeper delta=44m37s460ms).-
+com.zaxxer.hikari.pool.HikariPool-[WARN]- 2024-11-29 08:43:31,652-HikariPool-6 - Thread starvation or clock leap detected (housekeeper delta=54s853ms).-
+com.zaxxer.hikari.pool.HikariPool-[WARN]- 2024-11-29 08:44:26,420-HikariPool-6 - Thread starvation or clock leap detected (housekeeper delta=54s769ms).-
+com.zaxxer.hikari.pool.HikariPool-[WARN]- 2024-11-29 08:58:10,996-HikariPool-6 - Thread starvation or clock leap detected (housekeeper delta=13m14s565ms).-
+com.zaxxer.hikari.pool.HikariPool-[WARN]- 2024-11-29 09:09:27,653-HikariPool-6 - Thread starvation or clock leap detected (housekeeper delta=11m16s657ms).-
+com.zaxxer.hikari.pool.HikariPool-[WARN]- 2024-11-29 09:11:22,789-HikariPool-6 - Thread starvation or clock leap detected (housekeeper delta=55s127ms).-
+org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin-[INFO]- 2024-11-29 09:18:16,207-Application shutdown requested.-
+org.apache.tomcat.util.net.Acceptor-[WARN]- 2024-11-29 09:18:17,818-The acceptor thread [http-nio-9198-Acceptor] did not stop cleanly-
+org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean-[INFO]- 2024-11-29 09:18:17,819-Closing JPA EntityManagerFactory for persistence unit 'default'-
+com.zaxxer.hikari.HikariDataSource-[INFO]- 2024-11-29 09:18:17,820-HikariPool-6 - Shutdown initiated...-
+com.zaxxer.hikari.HikariDataSource-[INFO]- 2024-11-29 09:18:17,828-HikariPool-6 - Shutdown completed.-
+com.example.demo.DemoApplication-[INFO]- 2024-11-29 09:25:13,488-Starting DemoApplication using Java 17.0.10 with PID 13525 (/Users/ashujauhari/Data1/ClientBasedContent/CG2024/Microservice/Topic-Feign-With-CircuitBreak/02_productservice/target/classes started by ashujauhari in /Users/ashujauhari/Data1/ClientBasedContent/CG2024/Microservice/Topic-Feign-With-CircuitBreak/02_productservice)-
+com.example.demo.DemoApplication-[INFO]- 2024-11-29 09:25:13,490-No active profile set, falling back to 1 default profile: "default"-
+org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor-[INFO]- 2024-11-29 09:25:13,510-Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable-
+org.springframework.boot.devtools.env.DevToolsPropertyDefaultsPostProcessor-[INFO]- 2024-11-29 09:25:13,510-For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'-
+org.springframework.data.repository.config.RepositoryConfigurationDelegate-[INFO]- 2024-11-29 09:25:14,005-Bootstrapping Spring Data JPA repositories in DEFAULT mode.-
+org.springframework.data.repository.config.RepositoryConfigurationDelegate-[INFO]- 2024-11-29 09:25:14,025-Finished Spring Data repository scanning in 17 ms. Found 1 JPA repository interface.-
+org.springframework.boot.web.embedded.tomcat.TomcatWebServer-[INFO]- 2024-11-29 09:25:14,322-Tomcat initialized with port 9198 (http)-
+org.apache.catalina.core.StandardService-[INFO]- 2024-11-29 09:25:14,333-Starting service [Tomcat]-
+org.apache.catalina.core.StandardEngine-[INFO]- 2024-11-29 09:25:14,333-Starting Servlet engine: [Apache Tomcat/10.1.24]-
+org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]-[INFO]- 2024-11-29 09:25:14,352-Initializing Spring embedded WebApplicationContext-
+org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext-[INFO]- 2024-11-29 09:25:14,352-Root WebApplicationContext: initialization completed in 842 ms-
+org.hibernate.jpa.internal.util.LogHelper-[INFO]- 2024-11-29 09:25:14,541-HHH000204: Processing PersistenceUnitInfo [name: default]-
+org.hibernate.Version-[INFO]- 2024-11-29 09:25:14,569-HHH000412: Hibernate ORM core version 6.5.2.Final-
+org.hibernate.cache.internal.RegionFactoryInitiator-[INFO]- 2024-11-29 09:25:14,585-HHH000026: Second-level cache disabled-
+org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo-[INFO]- 2024-11-29 09:25:14,715-No LoadTimeWeaver setup: ignoring JPA class transformer-
+com.zaxxer.hikari.HikariDataSource-[INFO]- 2024-11-29 09:25:14,730-HikariPool-1 - Starting...-
+com.zaxxer.hikari.pool.HikariPool-[INFO]- 2024-11-29 09:25:14,873-HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@29e2f266-
+com.zaxxer.hikari.HikariDataSource-[INFO]- 2024-11-29 09:25:14,874-HikariPool-1 - Start completed.-
+org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator-[INFO]- 2024-11-29 09:25:15,309-HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)-
+org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean-[INFO]- 2024-11-29 09:25:15,362-Initialized JPA EntityManagerFactory for persistence unit 'default'-
+org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration-[WARN]- 2024-11-29 09:25:15,548-spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning-
+org.springframework.boot.devtools.autoconfigure.OptionalLiveReloadServer-[WARN]- 2024-11-29 09:25:16,047-Unable to start LiveReload server-
+org.springframework.boot.actuate.endpoint.web.EndpointLinksResolver-[INFO]- 2024-11-29 09:25:16,052-Exposing 1 endpoint beneath base path '/actuator'-
+org.springframework.boot.web.embedded.tomcat.TomcatWebServer-[INFO]- 2024-11-29 09:25:16,098-Tomcat started on port 9198 (http) with context path '/'-
+com.example.demo.DemoApplication-[INFO]- 2024-11-29 09:25:16,110-Started DemoApplication in 2.798 seconds (process running for 3.1)-
+org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/]-[INFO]- 2024-11-29 09:26:18,398-Initializing Spring DispatcherServlet 'dispatcherServlet'-
+org.springframework.web.servlet.DispatcherServlet-[INFO]- 2024-11-29 09:26:18,398-Initializing Servlet 'dispatcherServlet'-
+org.springframework.web.servlet.DispatcherServlet-[INFO]- 2024-11-29 09:26:18,400-Completed initialization in 2 ms-
+com.example.demo.service.ProductService-[INFO]- 2024-11-29 09:26:18,424-Fetching all records from Database...-
+org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin-[INFO]- 2024-11-29 09:26:22,964-Application shutdown requested.-
+org.apache.tomcat.util.net.Acceptor-[WARN]- 2024-11-29 09:26:24,575-The acceptor thread [http-nio-9198-Acceptor] did not stop cleanly-
+org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean-[INFO]- 2024-11-29 09:26:24,587-Closing JPA EntityManagerFactory for persistence unit 'default'-
+com.zaxxer.hikari.HikariDataSource-[INFO]- 2024-11-29 09:26:24,594-HikariPool-1 - Shutdown initiated...-
+com.zaxxer.hikari.HikariDataSource-[INFO]- 2024-11-29 09:26:24,608-HikariPool-1 - Shutdown completed.-
